@@ -1,5 +1,3 @@
-# customer-churn-prediction
-Customer Churn Prediction using Machine Learning and Streamlit
 import streamlit as st
 
 st.set_page_config(
@@ -10,9 +8,7 @@ st.set_page_config(
 
 st.title("📊 Customer Churn Prediction")
 
-st.write(
-    "Welcome to my Machine Learning project!"
-)
+st.write("Welcome to my Machine Learning project!")
 
 st.subheader("About This Project")
 
